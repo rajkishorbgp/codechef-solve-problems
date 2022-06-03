@@ -1,6 +1,6 @@
 /*
 	                   __________Problem Code: FACEDIR________
-					   
+				   	
     Chef is currently facing the north direction. Each second he rotates exactly 90 degrees in clockwise direction. 
 	Find the direction in which Chef is facing after exactly X seconds.
 
