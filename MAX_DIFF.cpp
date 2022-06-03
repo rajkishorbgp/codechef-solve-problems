@@ -20,7 +20,7 @@
     ________Output Format_______
     For each testcase, output a single line containing the maximum absolute difference between the tastiness of the two dishes.
 	                                                                                                                       */
-
+																														  
 #include <iostream>
 #include <vector>
 #define ll long long int
